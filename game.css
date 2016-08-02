@@ -1,0 +1,20 @@
+.field{
+  position: relative;
+  height: 400px;
+  margin: 10px;
+  background: lawngreen;
+}
+
+.player{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 10px;
+  width: 10px;
+  background: steelblue;
+}
+
+.boostUp{
+  position: absolute;
+  background: orangered;
+}
